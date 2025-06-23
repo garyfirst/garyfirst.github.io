@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    
+    <title>Index</title>
+    <link href="commer.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+<script></script>
+    <style type="text/css">
+        p
+    {font-size:large;
+    }
+ table.MsoNormalTable
+	{font-size:10.0pt;
+	font-family:"Cambria","serif";
+	}
+        .style1
+        {
+            text-indent: 21.0pt;
+            line-height: 15.6pt;
+            text-align: justify;
+            font-size: 12.0pt;
+            font-family: Cambria, serif;
+            margin-left: 0cm;
+            margin-right: 0cm;
+            margin-top: 0cm;
+            margin-bottom: .0001pt;
+        }
+    </style>
+</head>
+<body style="position: static;">
+<div class="block width100">
+    <div class="block center width1015" style="text-align:center"><img src="hangkang.png"></div>
+    <div class="block width1015 center mt50" style="height:750px">
+        <div class="block width215 floatLeft" style="background-color: #2B98CC; height: 750px">
+            <div class="block width215 pt15">
+                <ul id="mainleft">
+                    <li><a href="index.html">Call for Papers</a></li>
+                    <li><a href="organization.html">Organization</a></li>
+                    <li><a href="dates.html">Important Dates </a></li>
+                    <li><a href="formatting.html">Paper Formatting </a></li>
+                    <li><a href="submission.html">Paper Submission</a></li>
+                    <li><a href="https://icwl-sete.comp.polyu.edu.hk/sete.html">SETE 2025</a></li>
+                    <li><a href="https://garyfirst.github.io/">ETLL 2025</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="block width800 floatRight" style="background-color:#FFF">
+            <div class="block width740 center" style="border-bottom: 3px #999 solid; height:90px">
+                <div class="titletext" style="float:left">Call for paper</div>
+            </div>
+            <div class="block width720 center mt20">
+            <div style="width:720px">
+                <p align="center" class="MsoNormal">&nbsp;                    </p>
+                <p align="right">Nov 30th - Dec 3rd, 2025, Hong Kong, China</p>
+              <p align="right">&nbsp;</p>
+                <p align="center"><strong>The 8th International  Workshop on <br>
+                Educational  Technology for Language Learning<br>
+              (ETLL 2025)</strong></p>
+                <p align="center"><br>
+                  <a href="https://garyfirst.github.io/">https://garyfirst.github.io/</a></p>
+                <p align="center">&nbsp;</p>
+                <p>With the rapid development of information technology, educational technology has almost become indispensible for language and translation learning ranging from traditional multimedia tools to modern VR and MR equipment. Educational technology is the use of both physical hardware and educational theoretics. It encompasses several domains including learning theory, computer-based training, online learning, and where mobile technologies are used, m-learning. Both theory and application researches are important for language and translation proficiency improvement of various learners. Therefore, this workshop aims at serving as a meeting point for researchers, educationist and practitioners to discuss state-of-the-art and in-progress researches, exchange ideas and share experiences about educational technology for language and translation learning from the perspectives of both theory and application. We hope that the implications of findings of each work presented in this workshop can be used to improve the development of language and translation educational environments.</p>
+              <p>&nbsp;</p>
+                <p><strong>Workshop  topics (but not limited)</strong></p>
+                <p><br>
+                    Artificial Intelligence(AI) and Language Teaching and Learning <br>
+	                             Deep Learning Application in Language Teaching and Learning<br>		
+                                             Machine Learning and Language Teaching and Learning<br>
+					Big Data and Data privacy in Language Teaching and Learning<br>
+					Online Video Based Language Teaching and Learning<br>
+					Application of VR and MR in Language Teaching and Learning<br>
+					Game-based Language Learning and Translation Training<br>
+					Massive Open Online Courses (MOOC) for Language Learning<br>
+					Small Private Online Course (SPOC) for Language Learning<br>
+					Collaborative Technology Supported Language Teaching and Learning<br>
+					E-Learning Platforms and Tools for Language Teaching and Learning<br>
+					Mobile, Situated and Blended Learning of Languages<br>
+					Digital Libraries and Corpora for Language Learning and Translation Training<br>
+                    Technology Supported Assessment for Language Teaching and Learning </p>
+              <p>&nbsp;</p>
+              <p><strong>Paper  Reviewing and Selection Process</strong></p>
+                <p><br>
+                Each paper will be reviewed by at least two reviewers from the workshop chairs and program committee members. Reviewers are selected based on their familiarity with the topics. Necessary procedures are to be carried out to avoid potential conflicts of interests during the review process, and review reports from the reviewers will be returned to the authors anonymously. In unusual cases, such as when an external reviewer fails to deliver a review on time, PC chairs will invite other reviewers who have sufficient expertise but are not among the program committee members. In those cases, at least two PC chairs will examine the review comments to ensure the quality of the review. Accepted papers will be selected based on the mean scores given by reviewers.</p>
+                <p>&nbsp;</p>
+                <p>As part of the International Symposium on Emerging Technologies for Education (SETE) 2024, all accepted papers of this workshop will be included in the SETE Proceedings, which will be published in Springer's Lecture Notes in Computer Science (LNCS). LNCS volumes are indexed in the ISI Conference Proceedings Citation Index, Scopus, EI Compendex, DBLP, etc.</p>
+                <p>&nbsp;</p>
+                <p><strong>Organizer</strong></p>
+                <p>&nbsp;</p>
+                <p>Shili GE </p>
+              <div>
+                  <div> </div>
+                </div>
+                <p><span lang="EN-US">
+                  <o:p>&nbsp;</o:p>
+                </span></p>
+<p class="text">&nbsp;</p>
+
+<br>
+
+
+		 </div>
+          </div>
+        </div>
+    </div>
+</div>
+
+</body></html>

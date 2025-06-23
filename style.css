@@ -1,0 +1,95 @@
+﻿@charset "utf-8";
+/* CSS Document */
+a:link {
+color: #000000;
+text-decoration: underline;
+}
+a:visited {
+color:#000;
+text-decoration: none;
+}
+a:hover {
+color: #0071b3;
+text-decoration: underline;
+}
+img{border:none;}
+.text{
+	font-size: 18px;
+	font-family:"Times New Roman", Times, serif;
+	text-align: justify;
+	padding-top: 3px;
+	line-height: 200%;
+	text-indent: 2em;
+}
+.shift{
+	font-size:14px;
+	text-align:right;
+	}
+.texttitle{
+	font-size:20px;
+	font-family:"Times New Roman", Times, serif;
+	text-align:justify;
+	padding-top:4px;
+	line-height: 200%;
+}
+.titletext{
+	font-size:25px;
+	font-family:"Times New Roman", Times, serif;
+	text-align:justify;
+	padding-top:25px;
+	line-height: 200%;
+
+}
+#mainleft{
+line-height: 36px;
+height:36px;
+list-style-type: none;
+position: relative;
+padding: 0px;
+margin: 0px;
+width: 215px;
+text-align: center;
+float:right;
+}
+#mainleft A {
+font-family: arial, 微软雅黑, serif;
+font-size: 18px;
+color: #fff;
+display: block;
+width:165px;
+height:50px;
+line-height:50px;
+overflow:hidden;
+text-align: center;
+text-decoration: none;
+}
+#mainleft A:link {
+text-decoration: none;
+}
+#mainleft A:visited {
+color: #fff;
+text-decoration: none;
+}
+#mainleft A:hover {
+color:yellow;
+background: url(../image/li_hover.png) no-repeat center;
+}
+#mainleft LI {
+width: 165px;
+height:50px;
+margin:0 auto;
+border-bottom:1px #E7CB90 solid;
+}
+#mainleft ul {
+color:#000;
+visibility: hidden;
+position: absolute;
+width:511px;
+top: 36px;
+right: -320px;
+z-index: 25;
+padding:0;
+margin:auto 0px;
+list-style:none;
+
+}

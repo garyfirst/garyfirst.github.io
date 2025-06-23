@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="zh"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    
+    <title>Dates</title>
+    <link href="commer.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <style>
+        p
+    {font-size:large;
+    }
+    </style>
+<script></script></head>
+<body style="position: static;">
+<div class="block width100">
+    <div class="block center width1015" style="text-align:center"><img src="hangkang.png"></div>
+    <div class="block width1015 center mt50" style="height:750px">
+        <div class="block width215 floatLeft" style="background-color: #2B98CC; height: 750px">
+            <div class="block width215 pt15">
+                <ul id="mainleft">
+                    <li><a href="index.html">Call for Papers</a></li>
+                    <li><a href="organization.html">Organization</a></li>
+                    <li><a href="dates.html">Important Dates </a></li>
+                    <li><a href="formatting.html">Paper Formatting </a></li>
+                    <li><a href="submission.html">Paper Submission</a></li>
+                    <li><a href="https://icwl-sete.comp.polyu.edu.hk/sete.html">SETE 2025</a></li>
+                    <li><a href="https://garyfirst.github.io/">ETLL 2025</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="block width800 floatRight" style="background-color:#FFF">
+            <div class="block width740 center" style="border-bottom: 3px #999 solid; height:90px">
+                <div class="titletext" style="float:left">Important dates </div>
+            </div>
+            <div class="block width720 center mt20">
+            <div style="width:720px;">
+              <p align="center"><strong>The 8th International  Workshop on </strong><br>
+                <strong>Educational  Technology for Language Learning</strong><br>
+                <strong>(ETLL 2025)</strong></p>
+              <p align="left"><strong>&nbsp;</strong></p>
+              <p align="left"><strong>Important Dates</strong></p>
+             
+              <p align="left">&nbsp;</p>
+              <p align="left"> Full paper submission: Sep 10th, 2025 <font color= "#FF0000"></font></p>
+              <p align="left">&nbsp;</p>
+              <p align="left">Notification of acceptance: Oct 21st, 2025 <font color= "#FF0000"></font></p>
+              <p align="left">&nbsp;</p>
+              <p align="left">Camera-ready submission: Oct 31st, 2025 <font color= "#FF0000"></font></p>
+              <p align="left">&nbsp;</p>
+              <p align="left">Author Registration: Nov 1st, 2025 <font color= "#FF0000"></font></p>
+              <p align="left">&nbsp;</p>
+              <p align="left">Conference in  Hong Kong, China, 30 November - 3 December, 2025</p>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
+</body></html>
